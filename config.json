@@ -1,0 +1,11 @@
+{
+    "url": "http://cryptic-forest-2568:80",
+    "secret": "6e6a70d0-9b55-41f1-857c-24a7e82eea8c",
+    "database": "redis",
+    "redis": {
+        "host": "bluegill.redistogo.com",
+        "port": "9287",
+        "password": "90e6cb42f06d570ff542069e857ab10b",
+        "database": "0"
+    }
+}
